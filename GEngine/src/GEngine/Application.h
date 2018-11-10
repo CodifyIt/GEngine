@@ -1,8 +1,10 @@
 #pragma once
 
+#include "Core.h"
+
 namespace GEngine {
 
-	class _declspec(dllexport) Application
+	class GENGINE_API Application
 	{
 	public:
 		Application();
