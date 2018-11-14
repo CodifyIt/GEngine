@@ -12,6 +12,5 @@ namespace GEngine {
 	}
 
 	void Application::Run() {
-		while (true);
 	}
 }

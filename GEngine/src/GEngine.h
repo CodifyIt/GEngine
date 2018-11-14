@@ -1,6 +1,7 @@
 #pragma once
 
 #include "GEngine/Application.h"
+#include "GEngine/Log.h"
 
 // -----------ENTRY POINT------------------
 
